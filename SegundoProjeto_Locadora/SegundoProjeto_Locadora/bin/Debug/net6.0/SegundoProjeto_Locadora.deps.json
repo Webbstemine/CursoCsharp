@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "SegundoProjeto_Locadora/1.0.0": {
+        "runtime": {
+          "SegundoProjeto_Locadora.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SegundoProjeto_Locadora/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
