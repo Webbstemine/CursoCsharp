@@ -1,0 +1,15 @@
+C:\Users\joao_\Desktop\Curso CSharp\ProjetoLoginConsole\ProjetoLoginConsole\bin\Debug\net6.0\ProjetoLoginConsole.exe
+C:\Users\joao_\Desktop\Curso CSharp\ProjetoLoginConsole\ProjetoLoginConsole\bin\Debug\net6.0\ProjetoLoginConsole.deps.json
+C:\Users\joao_\Desktop\Curso CSharp\ProjetoLoginConsole\ProjetoLoginConsole\bin\Debug\net6.0\ProjetoLoginConsole.runtimeconfig.json
+C:\Users\joao_\Desktop\Curso CSharp\ProjetoLoginConsole\ProjetoLoginConsole\bin\Debug\net6.0\ProjetoLoginConsole.dll
+C:\Users\joao_\Desktop\Curso CSharp\ProjetoLoginConsole\ProjetoLoginConsole\bin\Debug\net6.0\ProjetoLoginConsole.pdb
+C:\Users\joao_\Desktop\Curso CSharp\ProjetoLoginConsole\ProjetoLoginConsole\obj\Debug\net6.0\ProjetoLoginConsole.csproj.AssemblyReference.cache
+C:\Users\joao_\Desktop\Curso CSharp\ProjetoLoginConsole\ProjetoLoginConsole\obj\Debug\net6.0\ProjetoLoginConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joao_\Desktop\Curso CSharp\ProjetoLoginConsole\ProjetoLoginConsole\obj\Debug\net6.0\ProjetoLoginConsole.AssemblyInfoInputs.cache
+C:\Users\joao_\Desktop\Curso CSharp\ProjetoLoginConsole\ProjetoLoginConsole\obj\Debug\net6.0\ProjetoLoginConsole.AssemblyInfo.cs
+C:\Users\joao_\Desktop\Curso CSharp\ProjetoLoginConsole\ProjetoLoginConsole\obj\Debug\net6.0\ProjetoLoginConsole.csproj.CoreCompileInputs.cache
+C:\Users\joao_\Desktop\Curso CSharp\ProjetoLoginConsole\ProjetoLoginConsole\obj\Debug\net6.0\ProjetoLoginConsole.dll
+C:\Users\joao_\Desktop\Curso CSharp\ProjetoLoginConsole\ProjetoLoginConsole\obj\Debug\net6.0\refint\ProjetoLoginConsole.dll
+C:\Users\joao_\Desktop\Curso CSharp\ProjetoLoginConsole\ProjetoLoginConsole\obj\Debug\net6.0\ProjetoLoginConsole.pdb
+C:\Users\joao_\Desktop\Curso CSharp\ProjetoLoginConsole\ProjetoLoginConsole\obj\Debug\net6.0\ProjetoLoginConsole.genruntimeconfig.cache
+C:\Users\joao_\Desktop\Curso CSharp\ProjetoLoginConsole\ProjetoLoginConsole\obj\Debug\net6.0\ref\ProjetoLoginConsole.dll

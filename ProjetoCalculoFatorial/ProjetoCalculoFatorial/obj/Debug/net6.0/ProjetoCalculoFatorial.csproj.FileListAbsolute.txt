@@ -1,0 +1,15 @@
+C:\Users\joao_\Desktop\Curso CSharp\ProjetoCalculoFatorial\ProjetoCalculoFatorial\bin\Debug\net6.0\ProjetoCalculoFatorial.exe
+C:\Users\joao_\Desktop\Curso CSharp\ProjetoCalculoFatorial\ProjetoCalculoFatorial\bin\Debug\net6.0\ProjetoCalculoFatorial.deps.json
+C:\Users\joao_\Desktop\Curso CSharp\ProjetoCalculoFatorial\ProjetoCalculoFatorial\bin\Debug\net6.0\ProjetoCalculoFatorial.runtimeconfig.json
+C:\Users\joao_\Desktop\Curso CSharp\ProjetoCalculoFatorial\ProjetoCalculoFatorial\bin\Debug\net6.0\ProjetoCalculoFatorial.dll
+C:\Users\joao_\Desktop\Curso CSharp\ProjetoCalculoFatorial\ProjetoCalculoFatorial\bin\Debug\net6.0\ProjetoCalculoFatorial.pdb
+C:\Users\joao_\Desktop\Curso CSharp\ProjetoCalculoFatorial\ProjetoCalculoFatorial\obj\Debug\net6.0\ProjetoCalculoFatorial.csproj.AssemblyReference.cache
+C:\Users\joao_\Desktop\Curso CSharp\ProjetoCalculoFatorial\ProjetoCalculoFatorial\obj\Debug\net6.0\ProjetoCalculoFatorial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joao_\Desktop\Curso CSharp\ProjetoCalculoFatorial\ProjetoCalculoFatorial\obj\Debug\net6.0\ProjetoCalculoFatorial.AssemblyInfoInputs.cache
+C:\Users\joao_\Desktop\Curso CSharp\ProjetoCalculoFatorial\ProjetoCalculoFatorial\obj\Debug\net6.0\ProjetoCalculoFatorial.AssemblyInfo.cs
+C:\Users\joao_\Desktop\Curso CSharp\ProjetoCalculoFatorial\ProjetoCalculoFatorial\obj\Debug\net6.0\ProjetoCalculoFatorial.csproj.CoreCompileInputs.cache
+C:\Users\joao_\Desktop\Curso CSharp\ProjetoCalculoFatorial\ProjetoCalculoFatorial\obj\Debug\net6.0\ProjetoCalculoFatorial.dll
+C:\Users\joao_\Desktop\Curso CSharp\ProjetoCalculoFatorial\ProjetoCalculoFatorial\obj\Debug\net6.0\refint\ProjetoCalculoFatorial.dll
+C:\Users\joao_\Desktop\Curso CSharp\ProjetoCalculoFatorial\ProjetoCalculoFatorial\obj\Debug\net6.0\ProjetoCalculoFatorial.pdb
+C:\Users\joao_\Desktop\Curso CSharp\ProjetoCalculoFatorial\ProjetoCalculoFatorial\obj\Debug\net6.0\ProjetoCalculoFatorial.genruntimeconfig.cache
+C:\Users\joao_\Desktop\Curso CSharp\ProjetoCalculoFatorial\ProjetoCalculoFatorial\obj\Debug\net6.0\ref\ProjetoCalculoFatorial.dll

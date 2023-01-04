@@ -1,0 +1,15 @@
+C:\Users\joao_\Desktop\Curso CSharp\UsandoArrays\UsandoArrays\bin\Debug\net6.0\UsandoArrays.exe
+C:\Users\joao_\Desktop\Curso CSharp\UsandoArrays\UsandoArrays\bin\Debug\net6.0\UsandoArrays.deps.json
+C:\Users\joao_\Desktop\Curso CSharp\UsandoArrays\UsandoArrays\bin\Debug\net6.0\UsandoArrays.runtimeconfig.json
+C:\Users\joao_\Desktop\Curso CSharp\UsandoArrays\UsandoArrays\bin\Debug\net6.0\UsandoArrays.dll
+C:\Users\joao_\Desktop\Curso CSharp\UsandoArrays\UsandoArrays\bin\Debug\net6.0\UsandoArrays.pdb
+C:\Users\joao_\Desktop\Curso CSharp\UsandoArrays\UsandoArrays\obj\Debug\net6.0\UsandoArrays.csproj.AssemblyReference.cache
+C:\Users\joao_\Desktop\Curso CSharp\UsandoArrays\UsandoArrays\obj\Debug\net6.0\UsandoArrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joao_\Desktop\Curso CSharp\UsandoArrays\UsandoArrays\obj\Debug\net6.0\UsandoArrays.AssemblyInfoInputs.cache
+C:\Users\joao_\Desktop\Curso CSharp\UsandoArrays\UsandoArrays\obj\Debug\net6.0\UsandoArrays.AssemblyInfo.cs
+C:\Users\joao_\Desktop\Curso CSharp\UsandoArrays\UsandoArrays\obj\Debug\net6.0\UsandoArrays.csproj.CoreCompileInputs.cache
+C:\Users\joao_\Desktop\Curso CSharp\UsandoArrays\UsandoArrays\obj\Debug\net6.0\UsandoArrays.dll
+C:\Users\joao_\Desktop\Curso CSharp\UsandoArrays\UsandoArrays\obj\Debug\net6.0\refint\UsandoArrays.dll
+C:\Users\joao_\Desktop\Curso CSharp\UsandoArrays\UsandoArrays\obj\Debug\net6.0\UsandoArrays.pdb
+C:\Users\joao_\Desktop\Curso CSharp\UsandoArrays\UsandoArrays\obj\Debug\net6.0\UsandoArrays.genruntimeconfig.cache
+C:\Users\joao_\Desktop\Curso CSharp\UsandoArrays\UsandoArrays\obj\Debug\net6.0\ref\UsandoArrays.dll
