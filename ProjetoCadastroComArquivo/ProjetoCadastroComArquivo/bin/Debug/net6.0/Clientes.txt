@@ -1,0 +1,14 @@
+##Inicio##
+Nome:Joao Pedro
+Genero:Masculino
+Data de Nascimento:10/12/1992
+Rua:Rua arlindo
+Número da casa:100
+##Fim##
+##Inicio##
+Nome:Anderson
+Genero:Masculino
+Data de Nascimento:10/09/1990
+Rua:Rua marcos
+Número da casa:200
+##Fim##
