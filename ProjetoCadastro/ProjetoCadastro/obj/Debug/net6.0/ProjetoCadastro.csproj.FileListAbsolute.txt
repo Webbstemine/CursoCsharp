@@ -1,0 +1,15 @@
+C:\Users\joao_\Desktop\Curso CSharp\ProjetoCadastro\ProjetoCadastro\bin\Debug\net6.0\ProjetoCadastro.exe
+C:\Users\joao_\Desktop\Curso CSharp\ProjetoCadastro\ProjetoCadastro\bin\Debug\net6.0\ProjetoCadastro.deps.json
+C:\Users\joao_\Desktop\Curso CSharp\ProjetoCadastro\ProjetoCadastro\bin\Debug\net6.0\ProjetoCadastro.runtimeconfig.json
+C:\Users\joao_\Desktop\Curso CSharp\ProjetoCadastro\ProjetoCadastro\bin\Debug\net6.0\ProjetoCadastro.dll
+C:\Users\joao_\Desktop\Curso CSharp\ProjetoCadastro\ProjetoCadastro\bin\Debug\net6.0\ProjetoCadastro.pdb
+C:\Users\joao_\Desktop\Curso CSharp\ProjetoCadastro\ProjetoCadastro\obj\Debug\net6.0\ProjetoCadastro.csproj.AssemblyReference.cache
+C:\Users\joao_\Desktop\Curso CSharp\ProjetoCadastro\ProjetoCadastro\obj\Debug\net6.0\ProjetoCadastro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joao_\Desktop\Curso CSharp\ProjetoCadastro\ProjetoCadastro\obj\Debug\net6.0\ProjetoCadastro.AssemblyInfoInputs.cache
+C:\Users\joao_\Desktop\Curso CSharp\ProjetoCadastro\ProjetoCadastro\obj\Debug\net6.0\ProjetoCadastro.AssemblyInfo.cs
+C:\Users\joao_\Desktop\Curso CSharp\ProjetoCadastro\ProjetoCadastro\obj\Debug\net6.0\ProjetoCadastro.csproj.CoreCompileInputs.cache
+C:\Users\joao_\Desktop\Curso CSharp\ProjetoCadastro\ProjetoCadastro\obj\Debug\net6.0\ProjetoCadastro.dll
+C:\Users\joao_\Desktop\Curso CSharp\ProjetoCadastro\ProjetoCadastro\obj\Debug\net6.0\refint\ProjetoCadastro.dll
+C:\Users\joao_\Desktop\Curso CSharp\ProjetoCadastro\ProjetoCadastro\obj\Debug\net6.0\ProjetoCadastro.pdb
+C:\Users\joao_\Desktop\Curso CSharp\ProjetoCadastro\ProjetoCadastro\obj\Debug\net6.0\ProjetoCadastro.genruntimeconfig.cache
+C:\Users\joao_\Desktop\Curso CSharp\ProjetoCadastro\ProjetoCadastro\obj\Debug\net6.0\ref\ProjetoCadastro.dll
